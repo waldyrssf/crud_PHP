@@ -6,6 +6,7 @@ Ele foi adaptado para ser uma aplicação de uso pessoal para acompanhamento evo
 
 Funcionalidades
  - Lista de acompanhamento;
+ - Codificador de senha;
  - Autenticação(login);
  - Cadastro;
 
