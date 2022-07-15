@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+}
+table, tr, td {
+    border: 1px solid rgb(0, 0, 0);
+    border-collapse: collapse;
+    margin: auto;
+    
+}
+tr:nth-child(2n) {
+    background: #fffbe9;
+}
+td {
+    padding: .5em;
+}
+
+th{
+    max-width: 500px;
+    word-wrap:normal;
+}
+form {
+    margin-top: .5em;
+}
+fieldset {
+    border: 2px solid black;
+    box-shadow: 1px 1px 5px black;
+    
+}
+legend {
+    background: darkgray;
+    padding: 0 2em;
+    text-align: center;
+}
+body{
+    background-color: lightyellow;
+    background-image: url(crudPacienteBackground1.png);
+}
+.quebradetexto{
+    word-wrap:normal;
+    width: 500px;
+}
