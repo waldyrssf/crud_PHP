@@ -13,5 +13,6 @@
         <input type="text" name="valorquinzenal" placeholder="Valor Quinzenal"><br><br>
         <input type="submit" value="Cadastrar">
     </form>
-</fieldset>   
+ </fieldset>
+        <a href="/logout.php">Sair</a>
     </div> 
