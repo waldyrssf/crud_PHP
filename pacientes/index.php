@@ -27,7 +27,7 @@
 <body>
     <h1>Histórico de <?= $_SESSION['name'] ?></h1>
 
-    <form action="add-paciente.php" method="POST">
+    <form action="add-evolucao.php" method="POST">
         <fieldset>
             <legend>Evolução</legend>
             <label for="msg">Data</label><br>
